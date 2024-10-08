@@ -1,2 +1,2 @@
 # readme
-i am learning github withthe readme
+i am learning github with the readme
